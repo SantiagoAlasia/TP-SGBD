@@ -34,5 +34,7 @@ Cada carpeta incluye:
 ## 🧭 Información adicional
 
 🏛️ **Carrera:** Ingeniería en Computación  
+
 📚 **Materia:** Sistemas de Gestion de Base de Datos 
+
 📅 **Año:** 2026
