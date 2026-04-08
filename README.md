@@ -1,4 +1,4 @@
-# TP-SGBD
+# TP - Sistemas de Gestion de Base de Datos
 
 Grupo 6 - Tema 2
 
@@ -12,6 +12,27 @@ Cada paciente una cama, una fecha de ingreso y de egreso.
 
 ---
 
+Cada carpeta incluye:
+- 📄 **Informe** en formato MarkDown
+- 🖼️ **Imágenes** y capturas de simulaciones o resultados
+- 📄 **Enunciado** dentro de este archivo.
+
+---
+
 - Link a diagrama ER: https://drive.google.com/file/d/1c5T5WxVMDKXBHN2TerodiX-23Chkq-jb/view?usp=sharing
 
 ---
+
+## 👩‍🔬 Integrantes del Grupo
+
+- **Lucia Feiguin**
+- **Elena Monutti**
+- **Santiago Alasia**
+
+---
+
+## 🧭 Información adicional
+
+🏛️ **Carrera:** Ingeniería en Computación  
+📚 **Materia:** Sistemas de Gestion de Base de Datos 
+📅 **Año:** 2026
